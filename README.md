@@ -1,4 +1,4 @@
-# My Python Practice Projects
+# My Python Automation Practice Projects
 
 Hello there! 👋 Welcome to my repository of Python practice projects.
 
